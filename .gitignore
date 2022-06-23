@@ -1,0 +1,5 @@
+node_modules
+outputFile.txt
+input/*
+output/*
+yarn.lock
